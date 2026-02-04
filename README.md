@@ -1,6 +1,5 @@
 ## Hi there 👋
-CS student at the Łódź University.
-Focused on C++ and core computer science fundamentals.
+CS student at Łódź University, specialising in C++ and core computer science fundamentals.
 
 These days I’m focused on:
 - C++ (main language)
