@@ -9,5 +9,6 @@ These days I'm focused on:
 ## Projects I've Built So Far 🚀:
 - [SecureRAG](https://github.com/shiirotech/SecureRAG) - Local AI system for document-based question answering using React, FastAPI/Python, RAG, FAISS and a local LLM.
 - [Currency Converter](https://github.com/shiirotech/Currency_converter) - C++ program that converts between fiat, crypto, and magical currencies. Implemented using object-oriented design, GoogleTest and CMake.
-- [Valentine Card](https://github.com/shiirotech/valentine-card) - Simple interactive Valentine's Day card made with HTML, CSS and JavaScript.
-- [Internship](https://github.com/shiirotech/Internship) - A repo, where I am solving my assignments as a Backend AI Engineering Intern at Flyrank AI.
+- [Internship](https://github.com/shiirotech/Internship) - Repo, where I am solving my assignments as a Backend AI Engineering Intern at Flyrank AI.
+- [Polite Scraper](https://github.com/shiirotech/polite_scraper) - Web Scraper implemented using Python: Requests, BeautifulSoup, Pydantic.
+- [Valentine Card](https://github.com/shiirotech/valentine-card) - Interactive Valentine's Day card made with HTML, CSS and JavaScript.
