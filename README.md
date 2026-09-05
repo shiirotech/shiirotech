@@ -1,8 +1,8 @@
 ## Hello 👋
 
-I am a CS student focused on C++, Python, Backend Development, AI/ML and core computer science.
+**I am a CS student focused on C++, Python, Backend Development, AI/ML and core computer science.**
 
-**Tech:** C++ · CMake · Python · REST APIs (FastAPI) · PostgreSQL · Docker · Authentication (Supabase Auth) · Git · GoogleTest · LLMs · Sentence Transformers
+**Tech:** `C++` · `CMake` · `Python` · `REST APIs (FastAPI)` · `PostgreSQL` · `Docker` · `Authentication (Supabase Auth)` · `Git` · `GoogleTest` · `LLMs` · `Sentence Transformers`
 
 ## Projects I've built so far:
 - [SecureRAG](https://github.com/shiirotech/SecureRAG) - Local AI system for document-based question answering using React, FastAPI/Python, RAG, FAISS and a local LLM.
