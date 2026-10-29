@@ -1,12 +1,66 @@
-## Hello 👋
+<table>
+<tr>
+<td valign="top" width="1%">
 
-**I am a CS student focused on C++, Python, Backend Development, AI/ML and core computer science.**
+<pre>
+                 #%###%#####                              
+            ##%%%%###%%%%%%###%%%
+        +%%%%%%%%#####%%%%%%%%%%%##
+      #%%%%@@%%%%%%%%%##%%####%%@@@%%
+     @@@@%@@@@@%%%%%#####+:....+#@@@@@
+    @@@@@@@@@@@%%##%###+:.       .%@@@@@
+    @@@@@@@@@@@%%%%%%%#:          .@@@@@#
+    @@@@@@@@@@@@%%@%%%#..        ..+@@@@%#
+     @@@@@@@@@@@@@@%%%+.          ..@@%@#+
+     #@@@@@@@@@%@@@@%%:           ..#%%#:
+      %@@@@@@@@@@@@@@%+++++::...:+####
+      +##%@@%@@@@@%@@%#####+:..+%##+:
+       +++#%####%%%%##+::+::.. .+:::
+        +#++++:::+:::....  ....  ..:
+          +++++::....     .....  ..:
+           #+++::::...    .::+++:..
+           +#++:::::.....  ::::+:.:
+            +++::::::........:::::
+            ###++:::::::::::::+:#%
+          %@@%###++++::::::+++:+@@@@%%%+
+       %@@@@@########++:::....:%@@@@@@@@@@#+
+    @@@@@@@@%####+######++++#%@@@@@@@@@@@@@@@@%%#
+ @@@@@@@@@@@%####++++++++++%@@@@@@@@@@@@@@@@%@@@@@
+@@@@@@@@@@@@@##+#++++++++#@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@%+++++:++++%@@@@@@@@@@@@@@@@@@@@@@@@@
+</pre>
 
-**Tech:** `C++` · `CMake` · `Python` · `REST APIs (FastAPI)` · `PostgreSQL` · `Redis` · `Docker` · `Authentication (Supabase Auth)` · `Git` · `GoogleTest` · `LLMs` · `Sentence Transformers`
+</td>
+<td valign="top">
 
-## Projects I've built so far:
-- [SecureRAG](https://github.com/shiirotech/SecureRAG) - Local AI system for document-based question answering using React, FastAPI/Python, RAG, FAISS and a local LLM.
-- [Currency Converter](https://github.com/shiirotech/Currency_converter) - C++ program that converts between fiat, crypto, and magical currencies. Implemented using object-oriented design, GoogleTest and CMake.
-- [Internship](https://github.com/shiirotech/Internship) - Repo, where I am solving my assignments as a Backend AI Engineering Intern at Flyrank AI (FastAPI, Docker Compose, PostgreSQL, Redis, Supabase, Ollama)
-- [Polite Scraper](https://github.com/shiirotech/polite_scraper) - Web Scraper implemented using Python: Requests, BeautifulSoup, Pydantic.
-- [Valentine Card](https://github.com/shiirotech/valentine-card) - Interactive Valentine's Day card made with HTML, CSS and JavaScript.
+<pre>
+───────────────────────── Projects ─────────────────────────
+▸ <a href="https://github.com/shiirotech/Internship">TaskAPI</a>
+  Task management API built during my self-paced internship.
+  FastAPI · Docker Compose · PostgreSQL
+  Redis · Supabase Auth · Ollama
+
+▸ <a href="https://github.com/shiirotech/SecureRAG">SecureRAG</a>
+  Local AI system for question answering over your documents.
+  FastAPI · React · RAG · FAISS · Ollama
+
+▸ <a href="https://github.com/shiirotech/Currency_converter">Currency Converter</a>
+  Console app converting fiat, crypto and magical currencies.
+  C++ · OOP · GoogleTest · CMake
+
+▸ <a href="https://github.com/shiirotech/polite_scraper">Polite Scraper</a>
+  Web scraper with delays and exponential backoff on retries.
+  Python · Requests · BeautifulSoup · Pydantic
+
+▸ <a href="https://github.com/shiirotech/carpooling-platform">Carpooling Platform</a> <i>(in progress)</i>
+  Drivers publish rides, users book seats.
+  Node.js · Express · Angular · SQLite
+
+▸ <a href="https://github.com/shiirotech/ML-intro">ML</a>
+  Experimenting with ML models in my free time.
+  Scikit-learn · NumPy · pandas · Matplotlib
+</pre>
+
+</td>
+</tr>
+</table>
