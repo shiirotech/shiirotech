@@ -1,4 +1,4 @@
-<h2 align="center">────────────────────────── Projects ──────────────────────────</h2>
+<h2 align="center"> Projects (づ￣ ³￣)づ </h2>
 
 <h3><a href="https://github.com/shiirotech/Internship">TaskAPI</a></h3>
 
